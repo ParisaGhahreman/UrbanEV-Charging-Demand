@@ -84,6 +84,12 @@ Raw CHARGED and UrbanEV data, as well as large derived geospatial files, are exc
 
 If you use this repository, please cite the software metadata in [`CITATION.cff`](CITATION.cff). A Zenodo DOI will be added after the first GitHub release.
 
+## DOI
+
+The archived release of this repository is available through Zenodo:
+
+[https://doi.org/10.5281/zenodo.22207854](https://doi.org/10.5281/zenodo.22207854)
+
 ## License
 
 Code and derived non-restricted outputs are released under the [MIT License](LICENSE).
