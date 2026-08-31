@@ -1,0 +1,2 @@
+﻿evaluation_dataset,evaluation_type,spatial_unit,training_cities,external_spatial_units,actual_high_potential_units,high_potential_prevalence,roc_auc,pr_auc,top_20_percent_precision,random_seed,model
+UrbanEV_Shenzhen,untouched_external_evaluation,TAZ,"AMS, JHB, LOA, MEL, SPO",275,56,0.20363636363636364,0.49991846053489897,0.2114646589180333,0.16071428571428573,42,Random Forest classifier

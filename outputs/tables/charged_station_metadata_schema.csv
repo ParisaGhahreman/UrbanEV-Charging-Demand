@@ -1,0 +1,13 @@
+﻿city_code,dataset_role,file_name,sample_rows_read,column_count,columns
+AMS,training_candidate,info.csv,1,9,city | country | abbreviation | total_chargers | total_sites | DBSCAN_eps | total_duration | total_volume | avg_power
+AMS,training_candidate,sites.csv,5,9,site_id | longitude | latitude | charger_num | total_duration | total_volume | avg_power | perimeter | area
+JHB,training_candidate,info.csv,1,9,city | country | abbreviation | total_chargers | total_sites | DBSCAN_eps | total_duration | total_volume | avg_power
+JHB,training_candidate,sites.csv,5,9,site_id | longitude | latitude | charger_num | total_duration | total_volume | avg_power | perimeter | area
+LOA,training_candidate,info.csv,1,8,city | country | abbreviation | total_chargers | total_siteBSCAN_eps | total_duration | total_volume | avg_power
+LOA,training_candidate,sites.csv,5,9,site_id | longitude | latitude | charger_num | total_duration | total_volume | avg_power | perimeter | area
+MEL,training_candidate,info.csv,1,8,city | country | abbreviation | total_chargers | total_siteBSCAN_eps | total_duration | total_volume | avg_power
+MEL,training_candidate,sites.csv,5,9,site | longitude | latitude | charger_num | total_duration | total_volume | avg_power | perimeter | area
+SPO,training_candidate,info.csv,1,8,city | country | abbreviation | total_chargers | total_siteBSCAN_eps | total_duration | total_volume | avg_power
+SPO,training_candidate,sites.csv,5,9,site | longitude | latitude | charger_num | total_duration | total_volume | avg_power | perimeter | area
+SZH,external_only,info.csv,1,8,city | country | abbreviation | total_chargers | total_siteBSCAN_eps | total_duration | total_volume | avg_power
+SZH,external_only,sites.csv,5,9,site_id | longitude | latitude | charger_num | total_duration | total_volume | avg_power | perimeter | area

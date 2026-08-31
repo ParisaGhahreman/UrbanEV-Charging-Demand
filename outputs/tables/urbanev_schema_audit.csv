@@ -1,0 +1,7 @@
+﻿file_name,sample_rows_read,column_count,first_column,first_10_columns
+inf.csv,5,7,station_id,station_id | longitude | latitude | charge_count | TAZID | area | perimeter
+duration.csv,5,276,time,time | 102 | 104 | 105 | 106 | 107 | 108 | 109 | 110 | 111
+occupancy.csv,5,276,time,time | 102 | 104 | 105 | 106 | 107 | 108 | 109 | 110 | 111
+poi.csv,5,3,primary_types,primary_types | longitude | latitude
+weather_airport.csv,5,7,time,time | T | P0 | P | U | nRAIN | Td
+weather_central.csv,5,7,time,time | T | P0 | P | U | nRAIN | Td

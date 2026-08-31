@@ -1,0 +1,7 @@
+﻿city_code,dataset_role,time_records,start_timestamp,end_timestamp,invalid_timestamps,duplicate_timestamps,most_common_interval,irregular_time_gaps,missing_demand_values,zero_demand_values,zero_demand_percent,negative_demand_values
+AMS,training_candidate,4392,2023-04-01,2023-09-30 23:00:00,0,0,0 days 01:00:00,0,0,6060792,56.34796850281257,0
+JHB,training_candidate,4392,2023-04-01,2023-09-30 23:00:00,0,0,0 days 01:00:00,0,0,72984,35.35635391233578,0
+LOA,training_candidate,4392,2023-04-01,2023-09-30 23:00:00,0,0,0 days 01:00:00,0,0,219670,21.84102099092435,0
+MEL,training_candidate,4392,2023-04-01,2023-09-30 23:00:00,0,0,0 days 01:00:00,0,0,82397,29.778890912770695,0
+SPO,training_candidate,4392,2023-04-01,2023-09-30 23:00:00,0,0,0 days 01:00:00,0,0,58384,28.283532922528387,0
+SZH,external_only,4392,2023-04-01,2023-09-30 23:00:00,0,0,0 days 01:00:00,0,0,431810,6.8039719905963025,0

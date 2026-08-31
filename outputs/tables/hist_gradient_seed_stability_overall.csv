@@ -1,0 +1,4 @@
+﻿metric,mean_across_seeds,standard_deviation_across_seeds
+mean_roc_auc,0.5671245974235105,0.0
+mean_pr_auc,0.2905180617413853,0.0
+mean_top_20_precision,0.3055555555555555,0.0

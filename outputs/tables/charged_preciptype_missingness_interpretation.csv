@@ -1,0 +1,7 @@
+﻿city_code,dataset_role,missing_preciptype,missing_preciptype_with_zero_precip,missing_preciptype_with_positive_precip,missing_preciptype_with_missing_precip,non_missing_preciptype_values
+AMS,training_candidate,3968,3968,0,0,"[""['rain']""]"
+JHB,training_candidate,4354,4354,0,0,"[""['rain']""]"
+LOA,training_candidate,4321,4321,0,0,"[""['rain']""]"
+MEL,training_candidate,4147,4147,0,0,"[""['rain']""]"
+SPO,training_candidate,4341,4341,0,0,"[""['rain']""]"
+SZH,external_only,3977,3977,0,0,"[""['rain']""]"

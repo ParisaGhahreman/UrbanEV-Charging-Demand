@@ -1,0 +1,9 @@
+﻿feature,charged_minimum,charged_maximum,urbanev_below_range_count,urbanev_above_range_count,urbanev_outside_range_count,urbanev_outside_range_percent
+log_total_chargers,0.6931471805599453,5.236441962829949,0,1991,1991,4.0
+log_station_count,0.6931471805599453,4.820281565605037,0,0,0,0.0
+temp_mean,3.2375000000000003,27.566666666666663,0,9350,9350,18.7845
+humidity_mean,13.880416666666669,97.44166666666666,0,0,0,0.0
+has_precipitation,0.0,1.0,0,0,0,0.0
+recorded_day_of_week,0.0,6.0,0,0,0,0.0
+month_sin,-1.0,0.8660254037844387,0,0,0,0.0
+month_cos,-1.0,-1.8369701987210294e-16,0,41525,41525,83.4254

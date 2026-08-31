@@ -1,0 +1,7 @@
+﻿city_code,dataset_role,poi_count,poi_type_count,poi_missing_type,poi_missing_coordinates,poi_invalid_coordinates,weather_records,weather_invalid_timestamps,weather_duplicate_timestamps,weather_missing_values,charger_count,chargers_missing_coordinates,chargers_without_valid_site
+AMS,training_candidate,51340,157,0,0,0,4392,0,0,3968,3526,0,0
+JHB,training_candidate,47488,112,0,0,0,4392,0,0,4354,61,0,0
+LOA,training_candidate,42782,148,0,0,0,4392,0,0,4321,506,0,0
+MEL,training_candidate,617806,213,0,0,0,4392,0,0,4147,64,0,0
+SPO,training_candidate,49719,133,0,0,0,4392,0,0,4341,50,0,0
+SZH,external_only,47181,91,0,0,0,4392,0,0,3977,2195,0,0

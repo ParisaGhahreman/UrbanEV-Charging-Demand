@@ -1,0 +1,9 @@
+﻿feature,used_for_external_validation,used_for_internal_extended_model
+log_total_chargers,True,True
+log_station_count,True,True
+temp_mean,True,True
+humidity_mean,True,True
+has_precipitation,True,True
+recorded_day_of_week,True,True
+month_sin,False,True
+month_cos,False,True

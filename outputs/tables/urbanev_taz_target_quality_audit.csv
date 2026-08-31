@@ -1,0 +1,3 @@
+﻿variable,time_records,start_timestamp,end_timestamp,invalid_timestamps,duplicate_timestamps,most_common_interval,irregular_time_gaps,spatial_unit_columns,missing_values,zero_values,zero_value_percent,negative_values,minimum_value,maximum_value,mean_value
+duration,4344,2022-09-01,2023-02-28 23:00:00,0,0,0 days 01:00:00,0,275,0,65365,5.4717,0,0.0,207.5833333333333,13.105547951894636
+occupancy,4344,2022-09-01,2023-02-28 23:00:00,0,0,0 days 01:00:00,0,275,0,32307,2.7044,0,0.0,373.0,17.86645697304537

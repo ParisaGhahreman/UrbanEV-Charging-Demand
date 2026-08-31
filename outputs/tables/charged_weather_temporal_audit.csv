@@ -1,0 +1,7 @@
+﻿city_code,dataset_role,weather_records,start_timestamp,end_timestamp,duplicate_timestamps,most_common_interval,irregular_time_gaps
+AMS,training_candidate,4392,2023-04-01,2023-09-30 23:00:00,0,0 days 01:00:00,0
+JHB,training_candidate,4392,2023-04-01,2023-09-30 23:00:00,0,0 days 01:00:00,0
+LOA,training_candidate,4392,2023-04-01,2023-09-30 23:00:00,0,0 days 01:00:00,0
+MEL,training_candidate,4392,2023-04-01,2023-09-30 23:00:00,0,0 days 01:00:00,0
+SPO,training_candidate,4392,2023-04-01,2023-09-30 23:00:00,0,0 days 01:00:00,0
+SZH,external_only,4392,2023-04-01,2023-09-30 23:00:00,0,0 days 01:00:00,0

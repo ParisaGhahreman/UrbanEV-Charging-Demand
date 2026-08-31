@@ -1,0 +1,2 @@
+﻿evaluation_dataset,evaluation_type,spatial_unit,training_cities,external_spatial_units,actual_high_potential_units,high_potential_prevalence,roc_auc,pr_auc,top_20_percent_precision,model
+UrbanEV_Shenzhen,supplementary_external_evaluation,TAZ,"AMS, JHB, LOA, MEL, SPO",275,56,0.20363636363636364,0.47725048923679053,0.20996562945582353,0.17857142857142858,HistGradientBoosting

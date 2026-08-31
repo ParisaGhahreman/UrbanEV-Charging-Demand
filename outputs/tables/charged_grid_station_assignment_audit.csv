@@ -1,0 +1,6 @@
+﻿city_code,city_name,station_count,occupied_grid_cells,total_chargers,mean_stations_per_cell
+AMS,Amsterdam,2449,87,3526,28.1494
+JHB,Johannesburg,47,35,61,1.3429
+LOA,Los Angeles,229,158,506,1.4494
+MEL,Melbourne,63,58,64,1.0862
+SPO,Sao Paulo,47,27,50,1.7407

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or repository in your research, please cite it using the metadata below."
+title: "UrbanEV Charging Demand: A Cross-City Transferability Assessment for EV-Charging Demand Potential Modelling"
+type: software
+authors:
+  - family-names: "Ghahreman Shahraki"
+    given-names: "Parisa"
+version: "1.0.0"
+date-released: "2026-08-31"
+license: "MIT"
+keywords:
+  - electric vehicle charging
+  - charging demand
+  - spatial machine learning
+  - transferability
+  - external validation
+  - urban analytics
+  - Isfahan
+repository-code: "https://github.com/ParisaGhahreman/UrbanEV-Charging-Demand"

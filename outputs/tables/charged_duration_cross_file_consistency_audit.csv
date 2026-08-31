@@ -1,0 +1,7 @@
+﻿city_code,dataset_role,site_records,hourly_duration_columns,comparable_sites,matching_sites,non_matching_sites,max_absolute_difference,mean_absolute_difference
+AMS,training_candidate,2449,2449,2449,1061,1388,298216.0,4254.698919788296
+JHB,training_candidate,47,47,47,12,35,4734.063408630383,1029.0839868944654
+LOA,training_candidate,229,229,229,5,224,52244.4934210527,3904.7093343176975
+MEL,training_candidate,63,63,63,1,62,18584.34667247429,5202.242738949518
+SPO,training_candidate,47,47,47,6,41,2184.439814814814,795.6947116981075
+SZH,external_only,1445,1445,1445,66,1379,1392114.5833333335,21484.722301268208

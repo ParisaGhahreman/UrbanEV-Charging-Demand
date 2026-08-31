@@ -1,0 +1,6 @@
+﻿city_code,city_name,grid_cells,observed_days,mean_long_term_demand,median_long_term_demand,high_potential_cells,missing_spatial_feature_values
+AMS,Amsterdam,87,183,32.73378766436491,26.923543929782458,18,0
+JHB,Johannesburg,35,183,4.39605775016972,5.181857164541588,8,0
+LOA,Los Angeles,158,183,11.265904523759268,9.152391120933007,32,0
+MEL,Melbourne,58,183,30.512805839655847,28.474726775956274,12,0
+SPO,Sao Paulo,27,183,5.047999014187354,5.0077756265004245,6,0

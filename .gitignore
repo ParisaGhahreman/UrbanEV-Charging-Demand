@@ -1,0 +1,43 @@
+# Raw, restricted, and large data
+data/raw/
+data/interim/
+data/processed/
+data/ghsl/
+*.tif
+*.tiff
+*.gpkg
+*.graphml
+*.zip
+
+# Notebook caches and checkpoints
+notebooks/cache/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python environments and cache files
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+
+# Local configuration and secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local manuscript drafts and office temporary files
+*.docx
+*.doc
+*.tmp
+~$*

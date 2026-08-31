@@ -1,0 +1,19 @@
+﻿city_code,dataset_role,file_name,sample_rows_read,column_count,columns
+AMS,training_candidate,poi.csv,5,4,Unnamed: 0 | type | longitude | latitude
+AMS,training_candidate,weather.csv,5,19,time | temp | feelslike | humidity | dew | precip | snow | snowdepth | preciptype | windgust | windspeed | winddir | pressure | visibility | cloudcover | solarradiation | solarenergy | uvindex | conditions
+AMS,training_candidate,chargers.csv,5,7,charger_id | longitude | latitude | site_id | total_duration | total_volume | avg_power
+JHB,training_candidate,poi.csv,5,4,Unnamed: 0 | type | longitude | latitude
+JHB,training_candidate,weather.csv,5,19,time | temp | feelslike | humidity | dew | precip | snow | snowdepth | preciptype | windgust | windspeed | winddir | pressure | visibility | cloudcover | solarradiation | solarenergy | uvindex | conditions
+JHB,training_candidate,chargers.csv,5,7,charger_id | longitude | latitude | site_id | total_duration | total_volume | avg_power
+LOA,training_candidate,poi.csv,5,4,Unnamed: 0 | type | longitude | latitude
+LOA,training_candidate,weather.csv,5,19,time | temp | feelslike | humidity | dew | precip | snow | snowdepth | preciptype | windgust | windspeed | winddir | pressure | visibility | cloudcover | solarradiation | solarenergy | uvindex | conditions
+LOA,training_candidate,chargers.csv,5,7,charger_id | longitude | latitude | site | total_duration | total_volume | avg_power
+MEL,training_candidate,poi.csv,5,4,Unnamed: 0 | type | longitude | latitude
+MEL,training_candidate,weather.csv,5,19,time | temp | feelslike | humidity | dew | precip | snow | snowdepth | preciptype | windgust | windspeed | winddir | pressure | visibility | cloudcover | solarradiation | solarenergy | uvindex | conditions
+MEL,training_candidate,chargers.csv,5,7,charger_id | longitude | latitude | site_id | total_duration | total_volume | avg_power
+SPO,training_candidate,poi.csv,5,4,Unnamed: 0 | type | longitude | latitude
+SPO,training_candidate,weather.csv,5,19,time | temp | feelslike | humidity | dew | precip | snow | snowdepth | preciptype | windgust | windspeed | winddir | pressure | visibility | cloudcover | solarradiation | solarenergy | uvindex | conditions
+SPO,training_candidate,chargers.csv,5,7,charger_id | longitude | latitude | site | total_duration | total_volume | avg_power
+SZH,external_only,poi.csv,5,4,Unnamed: 0 | type | longitude | latitude
+SZH,external_only,weather.csv,5,19,time | temp | feelslike | humidity | dew | precip | snow | snowdepth | preciptype | windgust | windspeed | winddir | pressure | visibility | cloudcover | solarradiation | solarenergy | uvindex | conditions
+SZH,external_only,chargers.csv,5,7,charger_id | longitude | latitude | site | total_duration | total_volume | avg_power

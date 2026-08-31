@@ -1,0 +1,6 @@
+﻿city_code,city_name,grid_cells,zero_poi_within_500m,zero_poi_within_1000m
+AMS,Amsterdam,87,0,0
+JHB,Johannesburg,35,0,0
+LOA,Los Angeles,158,76,66
+MEL,Melbourne,58,0,0
+SPO,Sao Paulo,27,0,0

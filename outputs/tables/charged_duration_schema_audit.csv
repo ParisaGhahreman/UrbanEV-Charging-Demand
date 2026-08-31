@@ -1,0 +1,7 @@
+﻿city_code,dataset_role,sample_rows_read,total_columns,time_column,demand_column_count,site_count,matching_site_column_count,first_demand_columns
+AMS,training_candidate,5,2450,Unnamed: 0,2449,2449,2449,0 | 1 | 10 | 100 | 1000
+JHB,training_candidate,5,48,Unnamed: 0,47,47,47,0 | 1 | 10 | 11 | 12
+LOA,training_candidate,5,230,Unnamed: 0,229,229,229,0 | 1 | 10 | 100 | 101
+MEL,training_candidate,5,64,Unnamed: 0,63,63,63,0 | 1 | 10 | 11 | 12
+SPO,training_candidate,5,48,Unnamed: 0,47,47,47,0 | 1 | 10 | 11 | 12
+SZH,external_only,5,1446,Unnamed: 0,1445,1445,1445,0 | 1 | 10 | 100 | 1000

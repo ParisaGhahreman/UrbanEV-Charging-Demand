@@ -1,0 +1,6 @@
+﻿fold,held_out_city,training_cities,training_records,test_records
+1,AMS,"JHB, LOA, MEL, SPO",50874,15921
+2,JHB,"AMS, LOA, MEL, SPO",60390,6405
+3,LOA,"AMS, JHB, MEL, SPO",37881,28914
+4,MEL,"AMS, JHB, LOA, SPO",56181,10614
+5,SPO,"AMS, JHB, LOA, MEL",61854,4941
